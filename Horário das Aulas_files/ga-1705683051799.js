@@ -1,1 +1,0 @@
-var ga = undefined; // Inserir Definição do Google Analitcs Aqui
