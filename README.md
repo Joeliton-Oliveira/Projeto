@@ -14,10 +14,9 @@ Este projeto é uma página de links personalizada desenvolvida em **HTML, CSS e
 
 ---
 
-## 📸 Preview
-
-![preview](./preview.png)  
-> Exemplo da página em uso
+🧑‍💻 Desenvolvido por
+Joéliton Oliveira
+Desenvolvedor Front-End | Foco em aplicações práticas e design funcional
 
 ---
 
